@@ -1,4 +1,4 @@
-![100px-MIT_logo shields](https://img.shields.io/github/license/talhatugsat1/yemeksepeti-account-checker) ![100px-MIT_logo shields](https://img.shields.io/github/stars/talhatugsat1/yemeksepeti-account-checker?style=social)
+[![100px-MIT_logo shields](https://img.shields.io/github/license/talhatugsat1/yemeksepeti-account-checker)](https://github.com/talhatugsat1/yemeksepeti-account-checker/blob/main/LICENSE) [![100px-MIT_logo shields](https://img.shields.io/github/stars/talhatugsat1/yemeksepeti-account-checker?style=social)](https://github.com/talhatugsat1/yemeksepeti-account-checker) 
 # yemeksepeti-account-checker
 Yemeksepeti hesaplarınızın geçerli olup olmadığını kontrol eder.
 
