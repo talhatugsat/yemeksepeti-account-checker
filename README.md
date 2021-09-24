@@ -15,7 +15,7 @@ print(checker.check(token)) # sorguyu gönderiyoruz, eğer hesap aktifse olumlu 
 ```
 
 ## MIT License
-[![220px-MIT_logo svg](https://github.com/talhatugsat1/yemeksepeti-account-checker/blob/main/LICENSE)](https://github.com/talhatugsat1/yemeksepeti-account-checker/blob/main/LICENSE)
+[![220px-MIT_logo svg](https://user-images.githubusercontent.com/51381316/134710284-22a012b1-fe1b-4b01-8f4c-62d02d261718.png)](https://github.com/talhatugsat1/yemeksepeti-account-checker/blob/main/LICENSE)
 
 ## Contact
 [![Linkedin](https://img.shields.io/badge/talhatugsat-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/talha-tu%C4%9Fsat-88303a1b0/) [![R10](https://img.shields.io/badge/leaver-view%20on%20r10.net-blue?style=for-the-badge)](https://www.r10.net/profil/133573-leaver.html)
