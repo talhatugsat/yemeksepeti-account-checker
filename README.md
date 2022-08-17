@@ -22,5 +22,5 @@ print(checker.check(token)) # sorguyu gönderiyoruz, eğer hesap aktifse olumlu 
 
 ## Stats
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=talhatugsat1&show_icons=true&count_private=true&hide=contribs,issues" alt="talhatugsat1's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=talhatugsat&show_icons=true&count_private=true&hide=contribs,issues" alt="talhatugsat1's github stats" />
 </p>
